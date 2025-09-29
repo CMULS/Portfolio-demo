@@ -40,11 +40,12 @@
         </nav>
       </header> 
       </div>
-      
+      <div>
       <section id="welcome-section">
         <h1>Hi I'm Cmulz</h1>
         <h4>a web developer</h4>
       </section>
+      </div>
       
       <section id="projects">
         <h2>Here are some of my projects</h2>

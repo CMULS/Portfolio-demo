@@ -1,7 +1,7 @@
 <!DOCTYPE html> 
 <html>
 <head>
-  <title>CMulz Portfolio</title>
+  <title>CMulz Portfolio</title> 
   <link href="style.css">
   <style>
     #welcome section {

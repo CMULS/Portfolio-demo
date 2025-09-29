@@ -30,7 +30,7 @@
 </head>
 <body>
     
-
+     <div>
       <header id="navbar">
         <nav>
           <ul>
@@ -39,6 +39,7 @@
          </ul>
         </nav>
       </header> 
+      </div>
       
       <section id="welcome-section">
         <h1>Hi I'm Cmulz</h1>

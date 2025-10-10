@@ -26,6 +26,14 @@
         color: red;
       }
     } 
+          #img {
+            width: 200px;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 50%;
+            display: block;
+            margin: 20px auto;
+        }
   </style>
 </head>
 <body>
@@ -43,7 +51,7 @@
       <div>
       <section id="welcome-section">
         <h1>Hi I'm Cmulz</h1>
-        <h4>a web developer</h4>
+        <h4>a web developer</h4><img id="img" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG_20210418_193526%20(2).jpg"/>
       </section>
       </div>
       

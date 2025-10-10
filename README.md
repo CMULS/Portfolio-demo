@@ -50,10 +50,13 @@
       <section id="projects">
         <h2>Here are some of my projects</h2>
         <div class="project-tile">
-          <h3>Tribute Page</h3>
-          <p>This is tribute to Dr Norman Borlaug</p>
-          <a href="#">View project</a>
-      </div>
+          <a href="#">Frosted Glass Page</a>
+          <p>This is a page with a transparent visa card</p>
+        </div>
+         <div class="project-tile">
+          <a href="#">Visa Card with black hole background</a>
+          <p>This is a page with a transparent visa card with black hole background</p>
+        </div>
       </section>
 
       <footer>

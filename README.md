@@ -24,6 +24,7 @@
       } 
       h4 {
         color: red;
+        text-align: centre;
       }
     } 
           #img {
@@ -50,8 +51,8 @@
       </div>
       <div>
       <section id="welcome-section">
-        <h1>Hi I'm Cmulz</h1>
-        <h4>a web developer</h4><img id="img" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG_20210418_193526%20(2).jpg"/>
+        <h1>Hello</h1>
+        <h4>I'm David a web developer</h4><img id="img" src="https://raw.githubusercontent.com/CMULS/kisekicorp.com/refs/heads/main/IMG_20210418_193526%20(2).jpg"/>
       </section>
       </div>
       

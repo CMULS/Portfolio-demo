@@ -1,8 +1,7 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>CMulz Portfolio</title> 
-  <link href="style.css">
+
+
+
+  
   <style>
     #welcome section {
       height: 100vh;
@@ -36,6 +35,10 @@
             margin: 20px auto;
         }
   </style>
+  <html> 
+  <head>
+    <title>CMulz Portfolio</title> 
+  <link href="style.css">
 </head>
 <body>
     

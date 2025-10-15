@@ -59,11 +59,11 @@
       <section id="projects">
         <h2>Here are some of my projects</h2>
         <div class="project-tile">
-          <a href="#">Frosted Glass Page</a>
+          <a href="https://cmuls.github.io/Galaxy-Webers/">Frosted Glass Page</a>
           <p>This is a page with a transparent visa card</p>
         </div>
          <div class="project-tile">
-          <a href="#">Visa Card with black hole background</a>
+          <a href="https://cmuls.github.io/Galaxi-2/">Visa Card with black hole background</a>
           <p>This is a page with a transparent visa card with black hole background</p>
         </div>
       </section>
